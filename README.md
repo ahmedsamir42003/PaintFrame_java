@@ -4,7 +4,7 @@ A basic drawing application built with Java , inspired by classic Microsoft Pain
 
 This project provides a toolbar with essential drawing tools, shapes, color selection, and canvas functions, allowing users to create freehand drawings, lines, rectangles, ovals, and more.
 
-![Paint Application Screenshot](./screenshot.png)  
+![Paint Application Screenshot](image.png)  
 
 ## Features
 
